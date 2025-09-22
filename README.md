@@ -1,0 +1,1 @@
+# Scripthub-Lazy-as-heck
