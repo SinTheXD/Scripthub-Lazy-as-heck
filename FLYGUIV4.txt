@@ -80,8 +80,8 @@ down.TextSize = 14.000
 
 onof.Name = "onof"
 onof.Parent = Frame
-onof.BackgroundColor3 = Color3.fromRGB(255, 249, 74)
-onof.Position = UDim2.new(0.702823281, 0, 0.329411775, 0)
+onof.BackgroundColor3 = Color3.fromRGB(46,49,54)
+name.Position = UDim2.new(0.475, 0, 0, 0)
 onof.Size = UDim2.new(0, 56, 0, 28)
 onof.Font = Enum.Font.SourceSans
 onof.Text = "fly"
